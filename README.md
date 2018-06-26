@@ -14,7 +14,7 @@ A random factor of brightness was added to each image using the HSV color space.
 
 ### Affine Transformation
 
-A small set of affine transformations (translation, shear, rotation) were applied to each 
+A small set of affine transformations (translation, shear, rotation) were applied to each image.  
 
 [image1]: ./augmented_data.png "Augmentation applied to the data"
 
